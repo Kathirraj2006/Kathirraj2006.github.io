@@ -99,6 +99,25 @@ font-weight:lighter;
  border: solid;
  border-color: black;
 }
+  .demojs{
+  text-align:left;
+  color: black;
+  font-size: 15px;
+  color: darkviolet;
+}
+
+.button{  color: white;
+  background: green;
+padding-top: 10px;
+padding-left: 10px;
+padding-block: 10px;
+padding-right: 10px;
+text-align: center;
+ border: none;
+ font-size: 20px;
+ border-radius: 10px;
+
+       }
   
   </style>
   
@@ -992,6 +1011,70 @@ Today climate is good.it is beautiful morning.The birds are flying on the sky.a 
   </ul>
 </div>
 <hr>
+      <h1 class="demojs">Demo: alert()</h1>
+<button onclick="display ()" class="button">click alert</button>
+<script>
+  function display(){
+    alert("Enter the page?");
+    alert(50);
+    alert(Date());
+  }
+</script>
+<hr>
+<h1 class="demojs"> Demo: confirm()</h1>
+<button onclick="save()" class="button">Save Data </button>
+<p id="msg"></p>
+<script>
+  function save(){
+    var user;
+    if(confirm("Do you want change")==true)
+    {
+      user="save successfully ";
+    }
+      else
+      {
+        user="save canceled";
+      }
+    document.getElementById("msg").innerHTML=user;
+  }
+</script>
+<hr>
+<h1 class="demojs"> Demo: for prompt()</h1>
+<button onclick="kathir()" class="button">Click to enter your name</button>
+<p id="msg2"></p>
+<script>
+  function kathir(){
+    var name=prompt("Enter your name :");
+    if(name==null||name=="")
+    {
+      document.getElementById("msg2").innerHTML="You don't enter the name.please enter your name again.";
+    }
+    else{
+      document.getElementById('msg2').innerHTML="You Entered name :"+ name;
+    }
+  }
+</script>
+<hr>
+<h1 class="demojs">Demo: Arithmetic Oprator</h1>
+<p>x=4 , y=3 , z=?</p
+<p id="p1">x+y=</p>
+<p id="p2">x-y=</p>
+<p id="p3">x*y=</p>
+<p id="p4">x/y=</p>
+<p id="p5">x%y=</p>
+<script>
+let x=4,y=3;
+let z=x+y;
+  document.getElementById("p1").innerHTML+=z;
+  z=x-y;
+  document.getElementById("p2").innerHTML+=z;
+  z=x*y;
+  document.getElementById("p3").innerHTML+=z;
+  z=x/y;
+  document.getElementById("p4").innerHTML+=z;
+  z=x%y;
+  document.getElementById("p5").innerHTML+=z;
+</script>
     </body>
 
 </html>
