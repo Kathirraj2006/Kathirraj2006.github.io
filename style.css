@@ -1,3 +1,128 @@
 #testing{
   color:green;
 }
+
+#grammar{
+  margin:80px;
+    
+border:solid 5px;
+text-align: center;
+color:white;
+background-color: black;
+}
+  
+.top{
+text-align: center;
+font-weight:bold;
+text-transform:uppercase;
+text-decoration: underline;
+}
+  
+H3{
+text-align:left;
+color:Blue;
+}
+  
+body{
+text-transform:capitalize;
+letter-spacing: 2px;
+line-height: 2.1;
+padding:20px;
+}
+
+span{color:dark green;
+text-transform: capitalize;
+}
+
+table{
+border:solid 3px;
+width: auto;
+height:auto;
+border-collapse: collapse;
+}
+  
+th,td{
+border:solid 3px;
+padding:30px;
+font-size:30px;
+}
+  
+th{
+background-color: Khaki;
+color:black;
+}
+  
+.color {
+background-color: Khaki;
+color:black;
+}
+  
+.tense{
+color:white;
+background-color:DarkBlue;
+text-align:center;
+text-transform:uppercase;
+}
+
+#ram{
+color:Blue;
+text-transform:capitalize;
+text-align:justify;
+}
+.h1{
+Text-align: center;
+}
+#mobile{
+color: green;
+text-transform: capitalize;
+text-align:justify;
+}
+#earth{
+text-transform:capitalize;
+color: violet;
+text-align: justify;
+}
+  #test{
+    text-transform: capitalize; 
+  } 
+  
+.word {
+  color: green;
+font-weight:lighter;
+  border:solid;
+  border-color:black;
+  text-align:center;
+}
+#sentence{
+ font-weight:lighter;
+ color: blue;
+ text-align: center;
+ border: solid;
+ border-color: black;
+}
+  .demojs{
+  text-align:left;
+  color: black;
+  font-size: 15px;
+  color: darkviolet;
+}
+
+.button{  color: white;
+  background: red;
+padding-top: 10px;
+padding-left: 10px;
+padding-block: 10px;
+padding-right: 10px;
+text-align: center;
+ border: none;
+ font-size: 20px;
+ border-radius: 10px;
+transition-duration: 0.1s;
+       }
+  .button:hover{
+  background-color: green;
+  color: white;
+ 
+  }
+  
+  
