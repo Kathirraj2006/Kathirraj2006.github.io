@@ -1,0 +1,965 @@
+<html>  
+  <head>
+<title> K Web site  </title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  
+  
+</head>
+<body>
+
+
+<p><H1 id="grammar">English Grammar</H1> </p>
+
+<div>
+<H1 class="top">Parts of speech</H1>
+
+<ol>
+<li>Noun </li>
+<li>Pronoun </li>
+<li>Adjective </li>
+<li>Verb </li>
+<li>Adverb </li>
+<li>Preposition </li>
+<li>Conjunction </li>
+<li>Interjection </li>
+</ol>
+</div>
+<hr>
+<div>
+<H3>1. Noun</H3>
+What is noun ?
+<br>
+Noun is a <strong>Naming word person,things,place.</strong>
+<br>
+<span>Four types of noun</span>
+<br>
+<ol>
+<li><strong>Proper noun</strong> - specific names</li>
+Ex: Kumar , Gokul , neem tree etc.
+<li><strong>common noun</strong> - name in general</li> 
+Ex: Man , Women , bird , tree etc.
+<li><strong>collective noun</strong> - names of group</li>
+Ex: team , people , audience etc.
+<li><strong>Meterial noun</strong> - names of meterial</li>
+Ex: gold , silver , iron etc.
+</ol>
+<span>Abstract noun</span>
+<ol>
+<li><strong>countable noun</strong></li>
+Ex: apple , bus , mobile etc.
+<li><strong>uncountable noun</strong></li>
+Ex: hair , rice , star etc.
+</ol>
+</div>
+<hr>
+<div>
+<h3>2. pronoun</h3>
+what is pronoun ?
+<br>
+  A pronoun is <strong>a word that is used instead of a noun or noun phrase.</strong>
+<ol>
+<span><li>Personal Pronouns</li></span>
+I , we , you , he , she , it , they , me , us , him , her and them
+<span><li>Possessive pronouns</li></span>
+my , mine , our , ours , your , yours , his , her , hers , its , their , theirs.
+<span><li>Reflexive and intensive pronouns</li></span>
+myself , ourselves , yourself , himself , herself , itself , themselves
+<span><li>Demonstrative pronouns</li></span>
+this , these , that , those
+<span><li>Interrogative pronouns</li></span>
+Which , what , who , whom , whose
+<span><li>Indefinite pronouns</li></span>
+anyone , anybody , someone , somebody , everyone , everybody , none , nobody , anywhere , somewhere , everywhere , nowhere , anything , something , everything , nothing. 
+<span><li>Relative pronouns</li></span>
+who , which , that , whose , whom
+</ol>
+</div>
+<hr>
+<div>
+
+<H3>3. adjective</H3>
+What is adjective ?
+<br>
+  refers to <strong>the word that describe a noun or pronoun.</strong>
+<ol>
+<span><li>Adjectives of Quality</li></span>
+good , bad , old , new , beautiful , brilliant , colourful...
+<span><li>Adjectives of Quantity</li></span>
+little , much , more , some , enough , no , whole...
+<span><li>Adjectives of Number</li></span>
+one , two , first , second , several , many , all , few... 
+<span><li>Demonstrative Adjectives</li></span>
+this , that , these , those , such 
+<span><li>Distributive Adjectives</li></span>
+each , every , either , neither , any , both
+<span><li>Interrogative Adjectives</li></span>
+What , which , whose
+</ol>
+</div>
+<hr>
+<div>
+<H3>4. verb</H3>
+what is verb ?
+<br>
+  verb is <strong>action word</strong>
+<ol> 
+ <span><li>Main verb</li></span>
+Ex : run , go , drive , cook etc...
+<br>
+<span>Transitive verb :</span>
+<br>
+A verb which need an object to describe an action or even is called a transitive verb.
+<br>
+Ex : He submitted his project
+<br>
+<span>Intransitive verb :</span>
+<br>
+A verb which does not need an object to describe an action or even is called an intransitive verb.
+<br>
+Ex : she lives in Salem 
+
+<span><li>Auxiliary verb</li></span>
+<span>Be form auxiliaries</span>
+<br>
+am , is , are , was , where , be , been , being
+<br>
+<span>Do form auxiliaries</span>
+<br>
+Do , Does , Did
+<br>
+<span>Have form auxiliaries</span>
+<br>
+Have , Has , Had
+<br>
+<span>Modal auxiliaries</span>
+<br>
+shall , should , will , would , can , could , may , might , must , ought to , used to , dare to , need
+</div>
+<hr>
+<div>
+<H3>5. Adverb</H3>
+What is adverb ?
+<br>
+  refers to <strong>the word that describe a verb.</strong>
+<ol>
+  <span><li>adverb of time :</li></span>
+yesterday , today , tomorrow , now , later , earlier , soon , sometimes , always , never.
+<span><li>adverb of place :</li></span>
+here , there , near , off , in , out , everywhere , anywhere , nowhere.
+<span><li> adverb of manner :</li></span>
+fast , slowly , quickly , neatly , successfully ,  creatively , carefully , cautiously.
+<span><li>adverb of frequency  :</li></span>
+often , rarely , seldom , always , never , usually , again , sometimes.
+<span><li>adverb of degree :</li></span>
+entirely , completely , totally , extremely , fairly , somewhat , enough , slightly , quite , very
+</ol>
+</div>
+<hr>
+<div>
+<H3>6. Prepositions</H3>
+What is preposition ?
+<br>
+Preposition is a grammatical word that is <strong>used to denote location , direction and time.</strong>
+<ol>
+ <span><li>Place Prepositions :</li></span>
+on , above , below , under , near , off , in , out , between and among
+<span><li>Direction Prepositions :</li></span>
+to , from , across , into , through , along , around , up and down
+<span><li>Time prepositions :</li></span>
+at 5 p.m , at 6 o'clock , on Monday , in March , in 2006 , in summer , for two hours , since yesterday , in the morning , at night , on my birthday etc.
+<span><li>Phrasal Prepositions :</li></span>
+according to , in front of , because of , by means of , in addition to , instead of , in spite of , out of , apart from , on behalf of , for the sake of , etc.
+</ol>
+</div>
+<hr>
+<div>
+<H3> 7. Conjunction</H3>
+What is conjunction ?
+<br>
+A word that is <strong>used to join two words, phrases or sentences </strong>is called a conjunction.
+<ol>
+<span><li>Coordinating conjunctions :</li></span>
+A conjunction that joins together two sentences or clauses of equal rank. It is used to make compound sentence.
+<br>
+<span>Common Coordinating conjunctions :</span>
+<br>
+ and , but , so , or , yet , still , whereas and while.
+<br>
+
+<span><li>Subordinating Conjunctions :</li></span>
+A conjunction that connects a main clause and a subordinate clause together. It is used to make complex sentences.
+<br>
+<span>Common Subordinating Conjunctions :</span>
+<br> 
+though , since , as , if , unless , that , as soon as ,
+when , till and than.
+<br>
+<span><li>Correlative conjunctions :</li></span>
+Conjunctions which are used in pairs.
+<br>
+<span>Common Correlative conjunctions :</span>
+<br>
+either... or , neither...nor , not only... but also ,
+not...but , whether...or and so...that
+</div>
+<hr>
+<div>
+<H3>8. Interjection</H3>
+What is interjection ?
+<br>
+Interjection is a word that is <strong>used to express sudden feelings and emotions</strong> of joy, sorrow, surprise, shock, disappointment and contempt. An exclamation mark (!) usually follows such expressions.
+<br>
+<span>Look at the following sentences :</span>
+<ul>
+<span>expression of joy</span>
+<br>
+<li>Hurray! Our college team won the final!</li>
+<span>expression of sorrow</span>
+<br>
+<li>Alas! How many people are dying of Corona virus!</li>
+<span>expression of surprise at sudden finding</span>
+<br>
+<li>Oh! This is your plan! </li>
+
+<span>expression of surprise</span>
+<br>
+<li>Aah! What a lovely place!</li>
+
+<span>expression of contempt at somebody's noise</span>
+<br>
+<li>Shh! My baby is sleeping!</li>
+
+<span>expression of shock</span>
+<br>
+<li>Oh my God! I forgot my hall ticket!</li>
+
+<span>expression of disapproval</span>
+<br>
+<li>Shit! What nonsense you are doing! </li>
+
+<span>expression of anger</span>
+<br>
+<li> Damn it! I'll kill you! </li>
+</div>
+<hr>
+<div>
+<H1 class="top">Functional units<H1>
+<ol>
+<li>Subject</li>
+<li>Verb</li>
+<li>Object</li>
+<li>Complement</li>
+<li>Adjunct</li>
+</ol>
+</div>
+<hr>
+<div>
+<ol>
+  <h3><li>subject ( s ) :</li></h3>
+     Ask the question <strong>Who?/ Which?</strong> to the verb the  answer is subject ( s ).
+<br>
+Ex : Ragu is crying.
+<br>
+ ( <strong>Who</strong> is crying? )
+<br>
+ The dog is barking. 
+<br>
+( <strong>Which</strong> is barking )
+<hr>
+<H3><li>verb ( V ) :</li></H3>
+  main verb or auxiliary verb
+<br>
+  Ex : My friends submitted the project.
+<hr>
+<H3><li>object ( O ) :</li></H3>
+  Ask the question- <strong>What?/ Whom?</strong> to the verb The answer is Object ( o ).
+<br>
+Ex : We booked a movie ticket. 
+<br>
+(we booked - <strong>What?</strong>)
+<br>
+She contacted the manager at once. 
+<br>
+(She contacted - <strong>whom?</strong>)
+<br>
+<span>Direct object (DO) :</span>
+<br>
+  Ask the question <strong>What?</strong> The answer is direct object.
+<br>
+ Ex : My father gifted- <strong>what?</strong> The answer 'a watch' is a 
+direct object here.
+<br>
+<span>Indirect object (IO) :</span>
+<br>
+  ask the question <strong>whom?</strong>
+the answer is indirect object (IO).
+<br>
+Ex : My father gifted a watch - to <strong>whom?</strong> The answer 'to me' is an indirect object here.
+<hr>
+
+<H3><li>complement (C) :</li></H3>
+
+   <span>That which completes the meaning of a sentence is complement.</span>
+   <br>
+  Ex : She is our teacher.
+<br>
+ (without 'our teacher the sentence is incomplete)
+ <br>
+   <span>What somebody has is complement.</span>
+<br>
+  Ex : He has two calculators.
+<br>
+ (Ask What he has and the answer is complement)
+<br>
+ <span> What something has is complement.</span>
+<br>
+  Ex : A dog has four legs. 
+<br>
+(Ask what the dog has and the answer  is complement)
+<br>
+   <span>How something is or appears is complement.</span>
+<br>
+  Ex : Meena is beautiful. / Meenia looks beautiful. 
+<br>
+(Ask how Meena is or how Meena looks, and the answer is complement.)
+<br>
+   <span>How something is or  something appears is complement.</span>
+<br>
+  Ex : It is true / It sounds true. 
+<br>
+(Ask how something is or how something appears to be, and the answer is complement)
+<hr>
+<H3><li>Adjunct ( A ) :</li></H3>
+ ask the question
+<br>
+   <span>when?</span>
+<br>
+  Ex : We conducted the meeting yesterday. ( <samp>When?</samp> Yesterday = adjunct)
+<br>
+  <span>where?</span>
+<br>
+ Ex : I met him in Chennai. ( <samp>Where?</samp> in Chennai = adjunct)
+<br>
+  <span>why?</span>
+<br>
+ Ex : I met him to get back my mobile. ( <samp>Why?</samp> to get back my mobile = adjunct)
+<br>
+   <span>how?</span>
+<br>
+  Ex : He explained the thesis clearly. ( <samp>How</samp> did he explain? clearly= adjunct)
+</ol>
+<hr>
+</div>
+
+
+
+<table>
+<H1 class="top">Model Verb</H1>
+
+<tr>
+<th>Model Verb </th>
+<th>Where to use ? </th>
+<th>Example </th>
+ </tr>
+
+<tr> 
+<td rowspan="4" class="color">Shall </td>
+<td> a) To express future tense
+ (first person)</td>
+<td>I shall do it for you. </td>
+</tr>
+
+<tr>
+
+<td>b) To express strong assertion
+ (second and third person) </td>
+<td> They shall dismiss him from the job.</td>
+</tr>
+
+<tr> 
+
+<td>c) To express instruction </td>
+<td> Every applicant shall enclose a self-
+addressed envelope.</td>
+</tr>
+
+<tr> 
+
+<td>d) Used in question to make offer or suggestion </td>
+<td> Shall I make a call?
+Shall we go now?</td>
+</tr>
+
+<tr> 
+<td rowspan="5" class="color"> Will</td>
+<td> a) To express future tense
+( II and III person)</td>
+<td>She will talk to you in the evening. </td>
+</tr>
+
+<tr>
+
+<td>b) To express strong assertion 
+( I person) </td>
+<td>I'm sure, I will win. </td> 
+</tr>
+
+<tr>
+
+<td>c) To express willingness</td>
+<td>I'll take you to the station.
+I'll give you a gift.</td>
+ </tr>
+
+<tr> 
+
+<td> d) To invite/request someone politely to do something</td>
+<td>Will you join us for a cup of coffee? </td>
+</tr>
+
+<tr> 
+
+<td>e) To pass an order </td>
+<td> Will you go upstairs now?</td>
+</tr>
+
+<tr> 
+<td rowspan="4"class="color"> Should</td>
+<td> a) Used to show what is right and appropriate</td>
+<td>You should not drink and drive. </td>
+</tr>
+
+<tr>
+
+<td>b) To give or ask for advice</td>
+<td>You should consult a doctor first.
+Whom should I invite first?</td>
+ </tr>
+
+<tr> 
+
+<td>c) To express refusal or anger</td>
+<td>Why should I help him?
+What should I do now?</td>
+</tr>
+
+<tr>
+<td>d) To give opinion that you are not certain about</td>
+<td>Is this enough for everyone? I should think so.
+Will it work out?
+I shouldn't think so.</td>
+ </tr>
+
+<tr>
+<td rowspan="4"class="color">would</td>
+<td>a) Used as the past form of will in reported speech and if - clause</td>
+<td>He said he would come late. if you asked for help, she would help you.</td>
+ </tr>
+
+<tr>
+
+<td> b) To refer to a possible happening</td>
+<td> They would like to avoid him.
+It would be of no use.
+They would have come now.</td>
+ </tr>
+
+<tr> 
+
+<td>c) used in polite offer /
+invitation</td>
+<td>Would you like coffee?
+Would you like sweets?</td>
+</tr>
+
+<tr> 
+<td>d) To make polite requests</td>
+<td>Would you mind leaving me alone for a while?
+Would you mind switching off your mobile now?</td>
+</tr>
+
+<tr> 
+<td rowspan="4"class="color">May</td>
+<td>a) To express possibility</td>
+<td>What he says may be true.
+We may receive the order this week.</td>
+</tr>
+
+<tr> 
+
+<td>b) Used to ask for / give permission</td>
+<td>May I come in madam? You may go now.</td>
+</tr>
+
+<tr> 
+
+<td>c) To express a wish</td>
+<td>May God bless you.
+May his soul rest in peace.</td>
+</tr>
+
+<tr> 
+
+<td>d) To ask for information</td>
+<td>May I know your good name, please?</td>
+</tr>
+
+<tr> 
+<td rowspan="4"class="color">Might</td>
+<td>a) Used as the past form of may in reported speech</td>
+<td>We thought that he might leave early.</td>
+</tr>
+
+<tr> 
+
+<td>b) To point out other's fault politely, especially what they haven't done</td>
+<td>You might have informed me earlier.</td>
+</tr>
+
+<tr> 
+
+<td>c) To make suggestions</td>
+<td>You might try pain killers, why don't you?</td>
+</tr>
+
+<tr> 
+<td>d) To express strong possibility</td>
+<td>He might reject your proposal.</td>
+</tr>
+
+<tr> 
+<td rowspan="6"class="color">Can</td>
+<td>a) To express ability, capacity</td>
+<td>I can speak five languages.
+ The room can accommodate only 30 students.</td>
+</tr>
+
+<tr>
+
+<td>b) To indicate that something is permitted</td>
+<td>You can use your mobile here at any time.
+You can sit anywhere you want.</td>
+ </tr>
+
+<tr>
+
+<td>c) To make a request to friends or juniors</td>
+<td>Can you wait for me for a while?
+Can you remind me of this tomorrow?</td>
+ </tr>
+
+<tr> 
+
+<td>d) To make a suggestion or offer help</td>
+<td>We can try somewhere else.
+Can I help you?</td>
+</tr>
+
+<tr> 
+
+<td>e) To ask for permission (to friends, juniors)</td>
+<td>Can I use your mobile?</td>
+</tr>
+
+<tr> 
+
+<td>f) To express possibility</td>
+<td>Smoking can cause cancer.
+Nobody can save you, if you do it again.</td>
+</tr>
+
+<tr>
+<td rowspan="3"class="color">Must</td>
+<td>a) To express necessity stronger than 'should'</td>
+<td>You must send your application before 5 p.m
+We must know the right password to access this.</td>
+ </tr>
+
+<tr>
+
+<td>b) To express opinions logically formed</td>
+<td>You must be tired now after working for two shifts.He must be in. Didn't you hear his voice?</td>
+ </tr>
+
+<tr>
+
+<td>c) Before sharing realizations</td>
+<td>I must admit, he is not a good choice for
+you. 
+I must say, his performance is more than what expected.</td>
+ </tr>
+
+<tr> 
+<td rowspan="3"class="color">ought</td>
+<td>a) To express duty</td>
+<td>You ought to be punctual on your duty.</td>
+</tr>
+
+<tr> 
+
+<td>b) To express what is legally or morally right</td>
+<td>We ought to obey the traffic rules.
+You ought to help the poor.</td>
+</tr>
+
+<tr>
+
+<td>c) To express what is desirable or ideal</td>
+<td>You ought to have basic computer knowledge to work here.
+There ought to be a solar panel for each house.</td>
+ </tr>
+</table>
+
+<H1 class="top">Tense</H1>
+
+<p>
+<ul>
+<H2>Simple</H2>
+<li>simple present</li>
+<li>simple past</li>
+<li>simple future</li>
+<H2>Continuous</H2>
+<li>present continuous</li>
+<li>past continuous</li>
+<li>future continuous</li>
+<H2>Perfect</H2>
+<li>present perfect</li>
+<li>past perfect</li>
+<li>future perfect</li>
+<H2>perfect continuous</H2>
+<li>present perfect continuous</li>
+<li>past perfect continuous</li>
+<li>future perfect continuous</li>
+</ul>
+</p>
+
+<H1 class="tense">simple present</H1>
+<p>used for facts, generalizations, and truths that are not affected by the passage of time.</p>
+<p>[V/Vs]</p>
+<H2>Example :</H2>
+<p>He <strong>eat</strong> biriyani.</p>
+<p>I <strong>travel</strong> in bus.</p>
+<p>Kathir <strong>speak</strong> English well.</p>
+
+<H1 class="tense">Simple past</H1>
+<p>used for events completed in the past.</p>
+<p>[V (past form)]</p>
+<H2>Example :</H2>
+<p>He <strong>aet</strong> chicken in yesterday.</p>
+<p>He <strong>traveled</strong> in Chennai.</p>
+<p>He <strong>went</strong> college in Monday.</p>
+
+<H1 class="tense">simple future</H1>
+<p>used for events to be completed in the future.</p>
+<p>[Will + V] </p>
+<H2>Example :</H2>
+<p>I <strong>will go</strong> to college.</p>
+<p>I <strong>will travel</strong> in bus.</p>
+<p>I <strong>will reach</strong> qukly in the college.</p>
+
+<H1 class="tense">Present continuous</H1>
+<p>used to describe currently ongoing (usually temporary) actions.</p>
+<p>[am/is/are + V ing form]</p>
+<H2>Example :</H2>
+<p>I <strong> am driving</strong> in cycle.</p>
+<p>He <strong>is going</strong> to college.</p>
+<p>They <strong>are working</strong> on the road. </p>
+
+<H1 class="tense">Past continuous</H1>
+<p>used to describe ongoing past events, often in relation to the occurrence of another event.</p>
+<p>[was/were + V ing form]</p>
+<H2>Example :</H2>
+<p>He <strong>was eating</strong> in breakfast.</p>
+<p>They <strong>were watching</strong> Movie.</p>
+<p>Kathir <strong>was working</strong> our land in yesterday.</p>
+
+<H1 class="tense">Future continuous</H1>
+<p>used to describe future events that are expected to continue over a period of time.</p>
+<p>[will be + V ing form]</p>
+<H2>Example :</H2>
+<p>Kathir <strong>will be studying</strong> BE course after diploma.</p>
+<p>He <strong>will be writing</strong> record note in tomorrow.</p>
+<p>The Board exam <strong>will be starting</strong> in April 25.</p>
+
+<H1 class="tense">Present perfect</H1>
+<p>used to describe events that began in the past and are expected to continue, or to emphasize the relevance of past events to the present moment.</p>
+<p>[Have/Has + V3 (Past participle form)]</p>
+<H2>Example :</H2>
+<p>I <strong>have gotten</strong> a mobile. </p>
+<p>He <strong>has called</strong> him.</p>
+<p>I <strong>have purchased</strong> fruits.</p>
+
+<H1 class="tense">Past perfect</H1>
+<p>used to describe events that happened prior to other events in the past.</p>
+<p>[had + V3 (Past participle form)]</p>
+<H2>Example :</H2>
+<p>I <strong>had bought</strong> bike in yesterday.</p>
+<p>She <strong>had gone</strong> to supermarket. </p>
+<p>He <strong>had ate</strong> chicken rice in yesterday evening.</p>
+
+<H1 class="tense">Future perfect</H1>
+<p>used to describe events that will be completed between now and a specific point in the future.</p>
+<p>[Will have + V3 (past participle form)]</p>
+<H2>Example :</H2>
+<p>He <strong>will have driven</strong> car.</p>
+<p>she <strong>will have drunk</strong> milk.</p>
+<p>He <strong>will have given</strong> a pen.</p>
+
+<H1 class="tense">Present perfect continuous</H1>
+<p>used to describe events that started in the past and continue into the present or were recently completed, emphasizing their relevance to the present moment.</p> 
+<p>[have/has been + V ing form]</p>
+<H2>Example :</H2>
+<p>I <strong>have been reading</strong> book.</p>
+<p>He <strong>has been working</strong> police station.</p>
+<p>She <strong>has been cooking</strong> dinner.</p>
+
+<H1 class="tense">Past perfect continuous</H1>
+<p>used to describe events that began, continued, and ended in the past, emphasizing their relevance to a past moment.</p>
+<p>[had been + V ing form]</p>
+<H2>Example :</H2>
+<p>He <strong>had been asking</strong> questions.</p>
+<p>She <strong>had been driving</strong> mango juice. </p>
+<p>I <strong>hadn't been eating</strong> chicken rice.</p>
+
+<H1 class="tense">Future perfect continuous</H1>
+<p>used to describe events that will continue up until a point in the future, emphasizing their expected duration.</p>
+<p>[Will have been + V ing form]</p>
+<H2>Example :</H2>
+<p>He <strong>will have been playing</strong> games in tomorrow.</p>
+<p>She <strong>will have been using</strong> mobile.</p>
+<p>He <strong>will have been acting</strong> movie.</p>
+<hr>
+<div id="ram">
+<H1 class="h1">Ram</H1>
+Ram is a college student.He is studying computer engineering.He was went Ooty.It is cooling place therefore he body is not accept a temperature so he has fever.
+</div>
+<hr>
+<div id="mobile">
+<H1 class="h1">The Mobile</H1>
+Mobile is the portable computer.it handle for easily so more people used in mobile in the world.you have mobile world in your hand.the device uses for good and bad.it is used for long time you have a chance will addict.it is used for more purposes.
+</div>
+<hr>
+<div id="earth">
+<H1 class="h1">The Earth</H1>
+The Solar system have third planet is earth.The sun have blast the small piece of fire stone was created the Earth.The earth is arround the sun. The earth on wate,solid,air,trees,stone etc...The humans and animals leaving on the earth.The man lives only on the earth in the solar system.
+</div>
+<hr>
+<div>
+<H1>The Farzi</H1>
+Farzi is the series.it is review in today.Hero is a middle class.he is the artist.he have one friend.hero grandfather have Ghandhi newspaper printing press.grandfather was brought a loan for keep a printing press.
+</div>
+<hr>
+<div>
+<H1> The Water</H1>
+Water is very important for human,animal, planet,tree etc...water source is rain.
+</div>
+<hr>
+<div>
+  <h1>The Morning</h1>
+Today climate is good.it is beautiful morning.The birds are flying on the sky.a old man is reading news paper.
+</div>
+  <hr>
+  <p>
+    <h1>The Work</h1>
+   Krish was working hard in yesterday. He was clean around the house. but that time high sun radiation. He was tired.So He was go to sleep. He will be continue work in evening.</p>
+  <hr>
+  <div id ="test">
+    <h1>The Test</h1>
+  he was went college.sir say student they was writing in test.they is writing completed before submitting the test paper.
+  </div>
+  <hr>
+  <div>
+    <h1>The Topic</h1>
+    Gukul sir was take lesson in yesterday.the topic is lead acid battery.he is teaching well.i was understanded the topic.
+  </div>
+<hr>
+        
+          <ul>
+  <li><a href="https://instagram.com">Instagram</a></li>
+    <li><a href="https://Facebook.com">Facebook</a></li>
+    <li><a href="//youtube.com">YouTube</a></li>
+    <li><a href="mainto: kathirraj37@gmail.com">Email</a></li>
+</ul>
+      <hr>    
+      
+     
+       
+  <ol>
+     <h1 class="word">One letter One Word in English </h1>
+    <li> A</li>
+    <li> I</li>
+  </ol>
+            <hr>
+  <ol>
+    <h1 class="word">Two letter Two Word in English</h1>
+    <li> An</li>
+    <li> Am</li>
+    <li> At</li>
+    <li> By</li>
+    <li> Do</li>
+    <li> Go</li>
+    <li> In</li>
+    <li> It</li>
+    <li> My</li>
+    <li> Me</li>
+    <li> No</li>
+    <li> Or</li>
+    <li> On</li>
+    <li> Of</li>
+    <li> To</li>
+    <li> Us</li>
+    <li> We</li>
+    
+  </ol>
+    <hr>        
+  <ol>
+    <h1 class="word">Three letter Three words in English </h1>
+    <li> The</li>
+    <li> Add</li>
+    <li> And</li>
+    <li> Cow</li>
+    <li> Cat</li>
+    <li> Bat</li>
+    <li> Bad</li>
+    <li> But</li>
+    <li> Sky</li>
+    <li> Sun</li>
+    <li> Boy</li>
+    <li> Bus</li>
+    <li> Old</li>
+    <li> New</li>
+    <li> Red</li>
+    <li> Cap</li>
+    <li> Gun</li>
+    <li> Run</li>
+    <li> God</li>
+    <li> Car</li>
+    <li> Eye</li>
+    <li> Ear</li>
+    <li> Box</li>
+    <li> Top</li>
+    <li> Tea</li>
+    <li> Oil</li>
+    <li> bot</li>
+    <li> Eat</li>
+    <li> Rat</li>
+    <li> sit</li>
+    <li> Use</li>
+    <li> Try</li>
+    <li> Hit</li>
+    <li> Can</li>
+    <li> One </li>
+    <li> Two</li>
+    <li> Six</li>
+    <li> Ten</li>
+    <li> Fly</li>
+    <li> Buy</li>
+    <li> Mix</li>
+    <li> Tap</li>
+    <li> Egg</li>
+    <li> Dog</li>
+    <li> Let</li>
+  </ol> 
+        <ol>
+    <h1 class="word">Four letter Four words in English </h1>
+    <li> Ball</li>
+    <li> Bike</li>
+    <li> Word</li>
+    <li> Girl</li>
+    <li> Page</li>
+    <li> Tree</li>
+    <li> Walk</li>
+    <li> Dark</li>
+    <li> Bold</li>
+    <li> Book</li>
+          
+        </ol>
+              
+    <div>
+      <hr>
+<div>
+  <h1 id="sentence">Make sentence in english</h1>
+  <ul>
+  <li> A ball hit the wall.</li>
+  <li> He is a playboy.</li>
+  <li> A crow is sitting on the roof top.</li>
+  <li> I was completed for operating system on Wednesday.</li>
+  <li>Kathir was went to shop.He bought a book.</li>
+  <li>Kathir will go to work.but he is very tired.</li>
+<li>Ravi was working long time so he hand is injure.</li>
+  <li>gokul say Kathir that He is bad boy because he was don't helped him.</li>
+  <li> Sir said Students that He was advised because They were Internal Exam wrote  not well.</li>
+  <li> I bought a new mobile so My old mobile contact number is erased so are you give me your number ?</li>
+  </ul>
+</div>
+<hr>
+      <h1 class="demojs">Demo: alert()</h1>
+<button onclick="display ()" class="button">click alert</button>
+<script>
+  function display(){
+    alert("Enter the page?");
+    alert(50);
+    alert(Date());
+  }
+</script>
+<hr>
+<h1 class="demojs"> Demo: confirm()</h1>
+<button onclick="save()" class="button">Save Data </button>
+<p id="msg"></p>
+<script>
+  function save(){
+    var user;
+    if(confirm("Do you want change")==true)
+    {
+      user="save successfully ";
+    }
+      else
+      {
+        user="save canceled";
+      }
+    document.getElementById("msg").innerHTML=user;
+  }
+</script>
+<hr>
+<h1 class="demojs"> Demo: for prompt()</h1>
+<button onclick="kathir()" class="button">Click to enter your name</button>
+<p id="msg2"></p>
+<script>
+  function kathir(){
+    var name=prompt("Enter your name :");
+    if(name==null||name=="")
+    {
+      document.getElementById("msg2").innerHTML="You don't enter the name.please enter your name again.";
+    }
+    else{
+      document.getElementById('msg2').innerHTML="You Entered name :"+ name;
+    }
+  }
+</script>
+<hr>
+<h1 class="demojs">Demo: Arithmetic Oprator</h1>
+<p>x=4 , y=3 , z=?</p
+<p id="demo1">x+y=</p>
+<p id="demo2">x-y=</p>
+<p id="demo3">x*y=</p>
+<p id="demo4">x/y=</p>
+<p id="demo5">x%y=</p>
+<script>
+let x=4,y=3;
+let z=x+y;
+  document.getElementById("demo1").innerHTML+=z;
+  z=x-y;
+  document.getElementById("demo2").innerHTML+=z;
+  z=x*y;
+  document.getElementById("demo3").innerHTML+=z;
+  z=x/y;
+  document.getElementById("demo4").innerHTML+=z;
+  z=x%y;
+  document.getElementById("demo5").innerHTML+=z;
+</script>
+      <h1 id="testing">I was created the new file so I will test the file</h1>
+    </body>
+
+</html>
